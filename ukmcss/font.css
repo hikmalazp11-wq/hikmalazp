@@ -1,0 +1,15 @@
+h1{
+    color: aqua;
+        font-family: "Readex Pro", sans-serif;
+    font-size: 100px;
+    font-weight: 900;
+}
+p{
+    color: brown;
+     font-family: "Playwrite AU SA Guides", cursive;
+}
+
+.azp{
+    color: darkgreen;
+     font-family: "Exile", system-ui;
+}
